@@ -156,9 +156,9 @@ html body main article section.right .inputbox .box label input {
   background: linear-gradient(to top, #e8eeef 0%, #dfe1e5 100%);
   border-radius: 30px;
   border: solid 2px #f3f3f3;
-  -webkit-box-shadow: 0 5px 10px 0 #00000039 inset;
-          box-shadow: 0 5px 10px 0 #00000039 inset;
-  color: #f08d25;
+  -webkit-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2235294118) inset;
+          box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2235294118) inset;
+  color: #954c00;
   font-size: 20px;
   font-weight: bold;
   padding-left: 40px;
